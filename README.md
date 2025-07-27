@@ -1,2 +1,2 @@
 # Certifications
-Nikhitha - IOT Certificate
+
